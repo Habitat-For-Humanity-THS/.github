@@ -1,12 +1,9 @@
-## Hi there 👋
+<div id="banner" align="center">
+  <img src="images/pexels-rodolfo-quirós-2219024.jpg" alt="H4H Hero">
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/Visit%20Our%20Website-blue?style=for-the-badge&logo=Hugo&logoColor=white" alt="H4H Badge">
+</div>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Habitat For Humanity THS
+Habitat For Humanity THS is a club located in Texas that seeks to make changes to the lives of others, restore the environment, and build a tight community.
